@@ -1,6 +1,6 @@
-# mltelect Samoa Website
+# MLTelect Samoa Website
 
-A professional website for mltelect Samoa - an electrical engineering and consultancy firm serving Samoa with residential, commercial, and industrial electrical services.
+A professional website for MLTelect Samoa - an electrical engineering and consultancy firm serving Samoa with residential, commercial, and industrial electrical services.
 
 ## Website Structure
 

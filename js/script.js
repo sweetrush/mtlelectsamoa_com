@@ -1,4 +1,4 @@
-// mltelect Samoa - Interactive JavaScript
+// MLTelect Samoa - Interactive JavaScript
 
 // DOM Elements
 const navToggle = document.querySelector('.nav-toggle');
@@ -378,5 +378,5 @@ window.addEventListener('scroll', debouncedHighlightNav);
 window.addEventListener('scroll', debouncedAnimateOnScroll);
 
 // Console welcome message
-console.log('%c🔌 mltelect Samoa - Professional Electrical Services', 'color: #1e40af; font-size: 16px; font-weight: bold;');
+console.log('%c🔌 MLTelect Samoa - Professional Electrical Services', 'color: #1e40af; font-size: 16px; font-weight: bold;');
 console.log('%cWebsite loaded successfully!', 'color: #10b981; font-size: 12px;');
