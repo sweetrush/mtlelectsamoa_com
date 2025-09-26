@@ -1,6 +1,6 @@
-# MTLelect Samoa Website
+# mltelect Samoa Website
 
-A professional website for MTLelect Samoa - an electrical engineering and consultancy firm serving Samoa with residential, commercial, and industrial electrical services.
+A professional website for mltelect Samoa - an electrical engineering and consultancy firm serving Samoa with residential, commercial, and industrial electrical services.
 
 ## Website Structure
 
@@ -116,14 +116,14 @@ Replace the CSS placeholder images with professional photography:
 
 The website includes placeholder contact information that should be updated:
 - Phone: +685 1234567
-- Email: info@mtlelectsamoa.ws
+- Email: info@mltelectsamoa.ws
 - Address: Beach Road, Apia, Samoa
 
 ## Emergency Services
 
 The site features 24/7 emergency contact information:
 - Emergency phone: +685 9876543
-- Emergency email: emergency@mtlelectsamoa.ws
+- Emergency email: emergency@mltelectsamoa.ws
 - Emergency response information
 
 ## Future Enhancements
