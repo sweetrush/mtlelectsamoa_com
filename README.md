@@ -115,15 +115,15 @@ Replace the CSS placeholder images with professional photography:
 ## Contact Information
 
 The website includes placeholder contact information that should be updated:
-- Phone: +685 1234567
-- Email: info@mltelectsamoa.ws
+- Phone: +685 7367472
+- Email: toluonoelectrical@gmail.com
 - Address: Beach Road, Apia, Samoa
 
 ## Emergency Services
 
 The site features 24/7 emergency contact information:
-- Emergency phone: +685 9876543
-- Emergency email: emergency@mltelectsamoa.ws
+- Emergency phone: +685 7367472
+- Emergency email: toluonoelectrical@gmail.com
 - Emergency response information
 
 ## Future Enhancements
