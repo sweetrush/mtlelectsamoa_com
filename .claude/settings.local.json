@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/ssuser/workbench/**)",
+      "WebSearch",
+      "Read(//home/ssuser/ssl-certs/**)",
+      "Bash(python3:*)",
+      "Bash(chmod:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
